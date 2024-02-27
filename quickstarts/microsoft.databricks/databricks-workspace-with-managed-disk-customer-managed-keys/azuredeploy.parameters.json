@@ -3,7 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "workspaceName": {
-      "value": "GET-PREREQ-outKeyVaultName"
+      "value": "GET-PREREQ-outWorkspaceName"
+    },
+    "enableNoPublicIp": {
+      "value": false
     },
     "keyVaultName": {
       "value": "GET-PREREQ-outKeyVaultName"
